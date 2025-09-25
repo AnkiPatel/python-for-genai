@@ -1,0 +1,2 @@
+-> PIP (pip installs packages) is python's official package installer
+-> pypi.org is the repository of software for the python programming language.

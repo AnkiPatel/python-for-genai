@@ -1,0 +1,2 @@
+-> A pyton module is simply a file with a .py extension containing python code
+-> Avoid creating the file name same as already exist standard module file name
